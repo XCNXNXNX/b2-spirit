@@ -6,6 +6,7 @@ license="MIT"
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
+logoFile="logo.png"
 description='''
 A life-size, flyable B-2 Spirit with mouse controls, wheel throttle,
 animated landing gear, two seats, and a third-person chase camera.

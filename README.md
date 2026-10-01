@@ -1,5 +1,7 @@
 # B-2 Spirit / B-2 幽灵
 
+<img src="src/main/resources/assets/b2spirit/textures/item/b2_spirit.png" alt="B-2 Spirit item texture" width="128">
+
 **Minecraft Java 1.21.1 · NeoForge · Java 21**
 
 ## 中文
